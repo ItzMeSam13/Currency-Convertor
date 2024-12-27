@@ -1,4 +1,4 @@
-const Base_Url="https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2024-12-23/v1/currencies"
+const Base_Url="https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2024-12-27/v1/currencies"
 const dropdown= document.querySelectorAll(".dropdown select");
 const From=document.querySelector(".From");
 const To=document.querySelector(".To");
